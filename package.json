@@ -1,0 +1,22 @@
+{
+  "name": "fatu",
+  "version": "1.0.0",
+  "description": "fatu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sponia-joker/fatu.git"
+  },
+  "keywords": [
+    "fatu"
+  ],
+  "author": "joker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sponia-joker/fatu/issues"
+  },
+  "homepage": "https://github.com/sponia-joker/fatu#readme"
+}
